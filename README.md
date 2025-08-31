@@ -1,7 +1,5 @@
 # Rock-Paper-Sizz
-amazing game for fun
-
-a simple rock paper siccors shoot game
+a fun rock paper siccors shoot game
 
 to play you just run the code a choose between:
 Rock, Paper, Siccors!
